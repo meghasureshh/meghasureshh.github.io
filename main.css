@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile img {
+    border-radius: 100%;
+}
+.title-1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: rgb(78, 78, 78);
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: lighter;
+}
+body {
+    background-image: url(images/bg.jpg) ;
+    background-size: 100% ;
+
+}
+.container-1 { 
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+.container-2 {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    background-color:rgba(241, 241, 241, 0.4);
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+.box-1 {
+   width:25%;
+   text-align: center;
+   margin: auto;
+}
+.box-2 {
+    width:25%;
+   text-align: center;
+   margin: auto;
+}
